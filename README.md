@@ -14,4 +14,8 @@
 - Unfortunately, the particles have to be removed, and some jank things I had to patch.
 - Something also seems to call KeBugCheck in Engine_360.dll sometimes.
 
+### Credits
+- Heaventh, creating this patch.
+- Gonzo, helping test and finding issues. 
+
 **If you crash, log it, and submit it in the issues page. I'll attempt to patch it**
