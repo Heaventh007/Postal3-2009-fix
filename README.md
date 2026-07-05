@@ -18,4 +18,5 @@
 - Heaventh, creating this patch.
 - Gonzo, helping test and finding issues. 
 
-**If you crash, log it, and submit it in the issues page. I'll attempt to patch it**
+**If you crash, log it, and submit it in the issues page. I'll attempt to patch it**\
+***- MAPS THAT REQUIRE 1GB OF RAM WILL CRASH WITHOUT IT! -***
